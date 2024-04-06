@@ -41,7 +41,7 @@
 
 </div>
 
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=schimizzimj'></p>
+<!-- <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=schimizzimj'></p> -->
 
 <div align="center">
     <h4>Learn more about me here:</h4>
