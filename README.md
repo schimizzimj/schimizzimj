@@ -13,6 +13,8 @@
 
 - ✌️ My name is **Marcus Schimizzi**.
 
+- 🌲 Currently based in beautiful Seattle
+
 - ☘️ Got my B.S. in Computer Science from Notre Dame in 2019
 
 - 🧑‍💻 Fullstack development experience with a lot of work in data visualization 📊
@@ -33,11 +35,11 @@
 
 <h2>GitHub Stats 📈</h2>
 
-![schimizzimj Github Stats](https://github-readme-stats.vercel.app/api?username=schimizzimj&show_icons=true&theme=midnight-purple&text_color=BD632F)
+![schimizzimj Github Stats](https://github-readme-stats-weld-six-36.vercel.app/api?username=schimizzimj&show_icons=true&theme=transparent&text_color=1F5ABD&title_color=8910A8&icon_color=5435B3)
 
 <h2>Most Used Language</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schimizzimj&theme=midnight-purple&langs_count=5&text_color=BD632F)
+![Top Langs](https://github-readme-stats-weld-six-36.vercel.app/api/top-langs/?username=schimizzimj&theme=transparent&langs_count=7&text_color=1F5ABD&title_color=8910A8&icon_color=5435B3)
 
 </div>
 
