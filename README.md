@@ -38,7 +38,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</div>
+<!-- </div>
 
 <div align="center">
 
@@ -51,6 +51,8 @@
 ![Top Langs](https://github-readme-stats-weld-six-36.vercel.app/api/top-langs/?username=schimizzimj&theme=transparent&langs_count=7&text_color=1F5ABD&title_color=8910A8&icon_color=5435B3)
 
 </div>
+
+-->
 
 <!-- <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=schimizzimj'></p> -->
 
